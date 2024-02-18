@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dheerajbhavsar
 - 👀 I’m interested in .NET and Cloud
-- 🌱 I’m currently learning Azure Cloud, Service Fabric, PaaS
+- 🌱 I’m good at Azure Cloud, Service Fabric, PaaS
+- 🌱 I’m Learning ReactJs and NextJs
 - 💞️ I’m looking to collaborate on .NET, Docker, Kubernetes, Service Fabric, Azure PaaS
 - 📫 How to reach me.
 
