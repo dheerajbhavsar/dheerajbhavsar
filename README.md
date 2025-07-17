@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dheerajbhavsar
 - 👀 I’m interested in .NET and Cloud
 - 🌱 I’m good at BizTalk, Azure iPaaS (AIS), Azure Cloud, Service Fabric, PaaS
-- 🌱 I’m Learning PySpak, Azure DataBricks, Azure Data Factory, Azure Fabric (Azure Data Engineering)
+- 🌱 I’m Learning Data Modeling, ETL/ELT, PySpark, Azure DataBricks, Azure Data Factory, Azure Fabric (Azure Data Engineering)
 - 💞️ I’m looking to collaborate on .NET, Docker, Kubernetes, Service Fabric, Azure PaaS
 - 📫 How to reach me.
 
